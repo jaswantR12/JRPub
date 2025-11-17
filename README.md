@@ -100,7 +100,7 @@
     <section id="hero" class="hero-gradient min-h-screen flex items-center justify-center text-center px-6">
         <div>
             <h1 class="text-5xl md:text-6xl font-extrabold text-icon-blue mb-6">
-                Premium Biomedical Engineering Solutions
+                Biomedical Engineering Solutions
             </h1>
 
             <p class="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto mb-8">
@@ -293,7 +293,7 @@
                 We are ready to support your medical engineering needs.
             </p>
 
-            <a href="https://wa.me/971523411980"
+            <a href="https://wa.me/971553252589"
                 class="inline-flex items-center space-x-2 bg-whatsapp-green text-white px-8 py-4 rounded-lg shadow-lg text-xl font-semibold hover:bg-green-600 transition">
                 <i data-lucide="message-circle" class="h-6 w-6"></i>
                 <span>WhatsApp Us</span>
